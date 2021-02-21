@@ -1,0 +1,7 @@
+(order shoporder)
+(add-cone thincone)
+(add-vanilla vanilla)
+(add-chocolate whitechocolate)
+(add-sprinkle littlesprinkle)
+(packaging)
+(delivery)
